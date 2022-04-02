@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael-605
-- 👀 I’m interested in ... Automatio, Machine Learning, IoT
+- 👀 I’m interested in ... Automation, Machine Learning, IoT
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Community projects
 - 📫 How to reach me ... mpratt60527@gmail.com
